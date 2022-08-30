@@ -31,7 +31,7 @@ https://www.cincinnatichildrens.org/health/e/ercp
 담즙을 볼 수 있는 파장대역은?
  - https://www.degruyter.com/document/doi/10.1515/cdbme-2020-0012/html
  
-
+  - https://www.nist.gov/publications/hyperspectral-image-segmentation-common-bile-duct
 ```
 
 
