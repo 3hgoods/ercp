@@ -42,7 +42,14 @@ https://www.cincinnatichildrens.org/health/e/ercp
   
 
   - https://www.nature.com/articles/s41598-020-72915-6.pdf?origin=ppub 
-  
 ```
+
+### NIR Hyperspectral image
+```
+  - https://link.springer.com/chapter/10.1007/978-981-15-9627-8_10
+
+```
+
+
 
 
