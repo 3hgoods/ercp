@@ -30,8 +30,19 @@ https://www.cincinnatichildrens.org/health/e/ercp
 
 담즙을 볼 수 있는 파장대역은?
  - https://www.degruyter.com/document/doi/10.1515/cdbme-2020-0012/html
+ -https://www.sciencedirect.com/science/article/abs/pii/S0002961008000172
  
+ - https://www.photonics.com/Articles/Hyperspectral_imaging_system_helps_surgeons/a38572
+  
+ 
+   ------------------------------------------
   - https://www.nist.gov/publications/hyperspectral-image-segmentation-common-bile-duct
+  - https://ieeexplore.ieee.org/document/8633189
+  - https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8618/1/Hyperspectral-image-segmentation-of-the-common-bile-duct/10.1117/12.2005612.short?SSO=1
+  
+
+  - https://www.nature.com/articles/s41598-020-72915-6.pdf?origin=ppub 
+  
 ```
 
 
