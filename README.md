@@ -29,6 +29,8 @@ https://www.cincinnatichildrens.org/health/e/ercp
 대상체인 담즙을 볼 수 있는 깊이는 ?
 
 담즙을 볼 수 있는 파장대역은?
+ - https://www.degruyter.com/document/doi/10.1515/cdbme-2020-0012/html
+ 
 
 ```
 
