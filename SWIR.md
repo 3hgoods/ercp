@@ -29,6 +29,8 @@ http://unithink.co.kr/product/ingaas-swir-camera/1345/
  https://www.i-need.de/?Artikel=217625&page=all
  https://trieye.tech/ovi/
  https://www.sensorsinc.com/images/uploads/documents/320CSX_Commercial.pdf
+ http://www.dtx.co.kr/swir_inspection.htm
+ 
  
  
 
