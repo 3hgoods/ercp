@@ -18,5 +18,9 @@ https://www.flirkorea.com/discover/iis/machine-vision/pregius-s/
 SWIR 렌즈정보
 https://www.envision.co.kr/ko/product/detail.asp?iGDS_NO=6537
 
+
+IMX990 evb-kit
+https://www.framos.com/en/products/sony-imx990-aabj-evb-kit
+
 ```
 
