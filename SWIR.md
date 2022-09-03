@@ -25,6 +25,9 @@ https://www.axiomoptics.com/products/goldeye-vswir-g-130-g-030-tec1/
 http://unithink.co.kr/product/ingaas-swir-camera/1345/
 
 
+ SWIR Sensor
+ https://www.i-need.de/?Artikel=217625&page=all
+ 
 
 
 ```
