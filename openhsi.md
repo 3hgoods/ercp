@@ -10,6 +10,7 @@
   - https://gist.github.com/elejke/3437be39478c66a3efac26700cb14334
 
 2. 기본 정보 확인
+h1@h1:~$ source .bashrc
 (base) C:\Users\h7>conda -V
 conda 4.14.0
 
