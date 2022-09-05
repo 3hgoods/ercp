@@ -3,6 +3,11 @@
 1. Miniforge3 설치
  -  https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Windows-x86_64.exe
  -  환경번수 체크하여 포함
+  - ref https://gist.github.com/elejke/3437be39478c66a3efac26700cb14334
+  - https://github.com/conda-forge/miniforge
+  - https://yiworkdisk.netlify.app/ko/linux/install_anaconda_ubuntu.html
+  - https://github.com/mamba-org/mamba
+  - https://gist.github.com/elejke/3437be39478c66a3efac26700cb14334
 
 2. 기본 정보 확인
 (base) C:\Users\h7>conda -V
