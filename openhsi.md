@@ -37,3 +37,19 @@ base                  *  C:\ProgramData\miniforge3
  - git clone https://github.com/openhsi/openhsi.git
  - cd openhsi
  - jupyter lab
+
+
+
+3. import ctypes
+ ``` 
+ conda install -c esri pywin32-ctypes
+
+import os
+import platform
+from ctypes import *
+
+dbr = None
+dbr = CDLL(os.path.join(os.path.abspath('.'), 'Crevis.VirtualFG40Library.dll'))
+
+```
+
