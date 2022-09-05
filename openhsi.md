@@ -1,6 +1,7 @@
 
 ### install
 1. Miniforge3 설치
+ - https://openhsi.github.io/openhsi/tutorial_installing_linux.html#Installing-Pyenv
  -  https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Windows-x86_64.exe
  -  환경번수 체크하여 포함
   - ref https://gist.github.com/elejke/3437be39478c66a3efac26700cb14334
