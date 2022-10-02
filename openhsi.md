@@ -1,3 +1,13 @@
+### parts
+```
+http://imagefocus.co.kr/sub/sub03_01.php
+https://my-rom.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%B9%84%EC%A0%84-%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%A0%9C%EC%A1%B0%EC%82%AC%EB%B3%84-%ED%95%9C%EA%B5%AD-%EB%8C%80%EB%A6%AC%EC%A0%90
+https://thinklucid.com/lucid-machine-vision-cameras/
+
+
+```
+
+
 
 ### install
 1. Miniforge3 설치
