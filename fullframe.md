@@ -13,6 +13,10 @@ https://support.canon-ci.co.kr/support/sdk/sdkMain
 https://www.dji.com/kr/zenmuse-z15-5d-iii-hd
 
 
+짐벌
+https://xcopter.com/product/detail.html?product_no=13332
+
+
 ```
 
 
