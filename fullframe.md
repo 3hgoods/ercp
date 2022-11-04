@@ -22,9 +22,11 @@ https://xcopter.com/product/detail.html?product_no=13332
 ### linux sdk
 
 ```
+sony
 https://support.d-imaging.sony.co.jp/app/sdk/en/index.html
 
-
+Control DSLR Camera with Linux Computer 2022
+https://youtu.be/DPTHHN5sAOI
 
 ```
 
